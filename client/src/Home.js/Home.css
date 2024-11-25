@@ -1,0 +1,15 @@
+/* Home.css */
+.header-spacing {
+    margin-left: 20px; /* Adjust the value as needed */
+  }
+  
+  .navbar h1 a {
+    text-decoration: none; /* Removes the underline */
+    color: white; /* Ensures the text color is white if needed */
+  }
+  
+  .navbar ul li a {
+    text-decoration: none; /* Removes underline from links */
+  }
+  
+  
